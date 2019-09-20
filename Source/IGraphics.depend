@@ -1,0 +1,273 @@
+# depslib dependency file v1.0
+1565969973 source:d:\1_1 term project\igraphics-master\igraphics-master\ice age.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1562534326 d:\1_1 term project\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562534326 d:\1_1 term project\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1567105320 source:d:\1_1 term project\ice age\ice age 2.0\ice age.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 2.0\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562534326 d:\1_1 term project\ice age\ice age 2.0\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 2.0\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 2.0\opengl\include\gl.h
+
+1567111643 source:d:\1_1 term project\ice age\ice age 2.0\ice age 2.0.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1567113188 source:d:\1_1 term project\ice age\ice age 2.0\ice age 2.1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1567879137 source:d:\1_1 term project\ice age\ice age 3.0\ice age 3.0.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 3.0\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562534326 d:\1_1 term project\ice age\ice age 3.0\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 3.0\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 3.0\opengl\include\gl.h
+
+1568029647 source:d:\1_1 term project\ice age\ice age 3.1\ice age 3.1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 3.1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562534326 d:\1_1 term project\ice age\ice age 3.1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 3.1\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 3.1\opengl\include\gl.h
+
+1568041646 source:d:\1_1 term project\ice age\ice age 3.1\ice age 3.2.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1568226635 source:d:\1_1 term project\ice age\ice age 4.0\ice age 4.0.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 4.0\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562534326 d:\1_1 term project\ice age\ice age 4.0\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 4.0\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 4.0\opengl\include\gl.h
+
+1568355406 source:d:\1_1 term project\ice age\ice age 4.1\ice age 4.1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 4.1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562534326 d:\1_1 term project\ice age\ice age 4.1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 4.1\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age 4.1\opengl\include\gl.h
+
+1568481867 source:d:\1_1 term project\ice age\ice age (fresh)\ice age.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1562534326 d:\1_1 term project\ice age\ice age (fresh)\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562534326 d:\1_1 term project\ice age\ice age (fresh)\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age (fresh)\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age (fresh)\opengl\include\gl.h
+
+1568564936 source:d:\1_1 term project\ice age\ice age (fresh) - copy\ice age.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1562534326 d:\1_1 term project\ice age\ice age (fresh) - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562534326 d:\1_1 term project\ice age\ice age (fresh) - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age (fresh) - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562534326 d:\1_1 term project\ice age\ice age (fresh) - copy\opengl\include\gl.h
+
+1568688836 source:c:\users\md. khademul islam\desktop\project\ice age\ice age.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1568688836 c:\users\md. khademul islam\desktop\project\ice age\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568688838 c:\users\md. khademul islam\desktop\project\ice age\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568688838 c:\users\md. khademul islam\desktop\project\ice age\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568688838 c:\users\md. khademul islam\desktop\project\ice age\opengl\include\gl.h
+
